@@ -11,28 +11,20 @@ Declutter AI is an innovative desktop application built to help you organize and
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-    ```bash
     git clone https://github.com/iz-Manik/Declutter-AI.git
     cd Declutter-AI
-    ```
 
-2. Get your IO Agent API Key
+### 2. Get your IO Agent API Key :
     https://ai.io.net/ai/api-keys
 
-1. Paste Key into .env file:
-    open the .env file and paste the key after
-    ```bash
+### 3. Paste Key into .env file:
     IOINTELLIGENCE_API_KEY=your_api_key_here
-    ```
 
-2. Install dependencies:
-    ```bash
+### 4. Install dependencies:
     pip install -r requirements.txt
-    ```
-3. Run the application:
-    ```bash
+    
+### 5. Run the application:
     python declutter_ai.py
-    ```
 
 ---
 Declutter your digital life with Declutter AI!
